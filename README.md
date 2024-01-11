@@ -1,2 +1,2 @@
 # estudos
-repositorio dos exercicios que fiz com Java
+repositorio dos exercicios que fiz com Java.
